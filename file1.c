@@ -15,3 +15,9 @@ void fn_def(){
 int mul(int x, int y){
 	return x*y;
 }
+
+int new_fun(){
+
+// some new function
+
+}
